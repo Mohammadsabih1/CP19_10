@@ -1,2 +1,1 @@
-# CP19_10
-Hangman Game project
+# Assignment # 1
